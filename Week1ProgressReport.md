@@ -1,3 +1,5 @@
+# Week 1 Progress Report
+
 Hey everyone,
 
 Most of my time has been put toward setting up CrashSimulator using the dockerfile, then on a 32 bit VM, then finally abandoning them both to use the VMWARE image provided by Preston/Alex.
