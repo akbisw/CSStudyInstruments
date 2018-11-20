@@ -4,11 +4,17 @@
 
 1. What academic program are you currently pursuing?
 
+MS in Computer Science
+
 2. Do you hold any prior degrees or certifications?  If so, please list them
+
+BS in Computer Engineering
 
 3. Do you have any professional software development experience?  If so,
    please list the type of work performed and the length (in years) of your
    experience.
+
+None
 
 
 ### II. Open Source Participation
@@ -21,3 +27,5 @@
 3. Do you participate in any open source social development sites (e.g. GitHub,
    BitBucket, etc.)  If so, which ones? You do not need to provide your account
    names for these sites.
+
+Github
