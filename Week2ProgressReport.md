@@ -14,6 +14,6 @@ After getting the hang of crash simulator, this week I'm testing which, zipinfo,
 
 * zipinfo: Crashed as it should when testing file type anomalies.
 
-* sort: May or may not have bug relate to filetype. 100% utilization on /dev/urandom
+* sort: blk does not get handled, but chr does. 100% utilization on /dev/urandom
 
 * groups: Handles file type anomalies to /etc/group as expected and nothing else to it.
