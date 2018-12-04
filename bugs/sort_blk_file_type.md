@@ -14,3 +14,9 @@ description
 **Current Stage: Bug Identified**
 
 Potential lack of handling for block file type. Sort application may be responding to char filetype somewhere. But have not found any checks in the source code. Going to work on a patch to filter blk, chr and fifo.
+
+### Week 2
+
+**Current Stage: Testing Patch**
+
+Testing patch to check file type and die on unsupported file types.
