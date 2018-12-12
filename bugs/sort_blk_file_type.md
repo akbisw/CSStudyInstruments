@@ -2,9 +2,9 @@
 * Project: sort
 * Current Stage: Bug reported
 * Link to Bug on Project Bug Tracker: https://bugs.launchpad.net/ubuntu/+source/coreutils/+bug/1807295
-* Brief description: 
+* Brief description: sort lines of text files
 
-description
+Sort like many other applications does not check for file types of the inputs that are passed in as arguments. Created patch to filter blk, chr and fifo on open file function.
 
 
 ## Updates
